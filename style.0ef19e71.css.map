@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,aAAc,CACd,eACF,CAEA,aACE,aAAc,CACd,kBACF","file":"style.0ef19e71.css","sourceRoot":"..\\src","sourcesContent":[".form-field {\r\n  display: block;\r\n  margin-top: 10px;\r\n}\r\n\r\n.form-groups {\r\n  display: block;\r\n  margin-bottom: 20px;\r\n}\r\n"]}
